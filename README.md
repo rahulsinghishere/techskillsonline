@@ -1,2 +1,3 @@
-# techskillsonline
-This repository maintains Project files for TechSkillsOnline Web Application
+# TechSkillsOnline
+This repository maintains Project files for TechSkillsOnline Web Application.
+A new Branc is Created now. This will serve as the local branch for Devs
